@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1664555464 source:c:\users\hp\desktop\aurgent\the_new\main.cpp
+	<bits/stdc++.h>
+
+1662898708 c:\users\hp\desktop\aurgent\the_new\sum.h
+
+1662898752 source:c:\users\hp\desktop\aurgent\the_new\sum.cpp
+	<bits/stdc++.h>
+
+1663220893 source:c:\users\hp\desktop\aurgent\the_new\calculator.cpp
+	"calculator.h"
+
+1663220893 c:\users\hp\desktop\aurgent\the_new\calculator.h
+
